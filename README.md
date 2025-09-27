@@ -157,19 +157,67 @@ Tech Stack: Python 🐍 | FastAPI ⚡ | Qdrant | Docker 🐳 | Mistral-7B | Olla
 
 <div align="center">
 
-### **🎯 SKILL PROFICIENCY RADAR**
+### **🎯 SKILL PROFICIENCY MATRIX**
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-radar
-    title Skills Assessment
-    "Python/AI" : 95
-    "Full-Stack Dev" : 88
-    "Data Science" : 92
-    "Machine Learning" : 90
-    "Database Design" : 85
-    "Cloud/DevOps" : 80
-    "Business Intelligence" : 87
+<table>
+<thead>
+<tr>
+<th align="left">🏆 Core Competency</th>
+<th align="center">📊 Proficiency</th>
+<th align="center">📈 Experience Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/🐍_Python/AI-FFD43B?style=flat&logo=python&logoColor=blue"/> <strong>Python & AI</strong></td>
+<td align="center"><img src="https://progress-bar.dev/95/?scale=100&title=95%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">🔥 <strong>Expert</strong></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/📊_Data_Science-FF6B6B?style=flat&logo=jupyter&logoColor=white"/> <strong>Data Science</strong></td>
+<td align="center"><img src="https://progress-bar.dev/92/?scale=100&title=92%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">🔥 <strong>Expert</strong></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/🤖_Machine_Learning-4ECDC4?style=flat&logo=tensorflow&logoColor=white"/> <strong>Machine Learning</strong></td>
+<td align="center"><img src="https://progress-bar.dev/90/?scale=100&title=90%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">🔥 <strong>Expert</strong></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/⚛️_Full--Stack_Dev-61DAFB?style=flat&logo=react&logoColor=black"/> <strong>Full-Stack Dev</strong></td>
+<td align="center"><img src="https://progress-bar.dev/88/?scale=100&title=88%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">🚀 <strong>Advanced</strong></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/💼_Business_Intelligence-FF9500?style=flat&logo=powerbi&logoColor=white"/> <strong>Business Intelligence</strong></td>
+<td align="center"><img src="https://progress-bar.dev/87/?scale=100&title=87%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">🚀 <strong>Advanced</strong></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/🗄️_Database_Design-316192?style=flat&logo=postgresql&logoColor=white"/> <strong>Database Design</strong></td>
+<td align="center"><img src="https://progress-bar.dev/85/?scale=100&title=85%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">🚀 <strong>Advanced</strong></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/☁️_Cloud/DevOps-2CA5E0?style=flat&logo=docker&logoColor=white"/> <strong>Cloud & DevOps</strong></td>
+<td align="center"><img src="https://progress-bar.dev/80/?scale=100&title=80%25&width=120&color=babaca&suffix=%25"/></td>
+<td align="center">💪 <strong>Proficient</strong></td>
+</tr>
+</tbody>
+</table>
+
+### **💡 SKILL ECOSYSTEM VISUALIZATION**
+
+```
+       🧠 AI/ML EXPERTISE (95%)     📊 DATA SCIENCE (92%)
+              ████████████████▓          ████████████████▓
+                     ▲                          ▲
+                     │                          │
+🔧 FULL-STACK (88%) ─┼─ HAZILI ALAA EDDINE ─────┼─ 💼 BUSINESS INTEL (87%)
+                     │                          │
+                     ▼                          ▼
+              ████████████████░           ████████████████░
+        🗄️ DATABASE DESIGN (85%)     ☁️ CLOUD/DEVOPS (80%)
 ```
 
 </div>
