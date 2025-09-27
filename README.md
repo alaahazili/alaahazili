@@ -217,7 +217,7 @@ Tech Stack: Python 🐍 | FastAPI ⚡ | Qdrant | Docker 🐳 | Mistral-7B | Olla
                      │                          │
                      ▼                          ▼
               ████████████████░           ████████████████░
-        🗄️ DATABASE DESIGN (85%)     ☁️ CLOUD/DEVOPS (80%)
+        🗄️ DATA ANALYST (90%)              ☁️ CLOUD (50%)
 ```
 
 </div>
@@ -226,27 +226,6 @@ Tech Stack: Python 🐍 | FastAPI ⚡ | Qdrant | Docker 🐳 | Mistral-7B | Olla
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30" /> **GITHUB PERFORMANCE ANALYTICS**
-
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alaahazili&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="GitHub Stats" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaahazili&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117&theme=radical" />
-
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaahazili&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaahazili&theme=react-dark&bg_color=0d1117&hide_border=true&line=00D9FF&point=00D9FF" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **ACADEMIC EXCELLENCE & LEADERSHIP**
 
