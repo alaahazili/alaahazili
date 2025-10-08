@@ -250,7 +250,7 @@ Tech Stack: Python 🐍 | FastAPI ⚡ | Qdrant | Docker 🐳 | Mistral-7B | Olla
 class HaziliAlaEddine:
     def __init__(self):
         self.profile = {
-            "🎓 graduation": "February 2026",
+            "🎓 graduation": "2026",
             "💼 internship_type": "PFE (End-of-Studies)",
             "🌍 availability": "Remote | Hybrid | On-site",
             "📍 location": "Rabat, Morocco (Flexible)",
